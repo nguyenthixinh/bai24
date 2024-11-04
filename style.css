@@ -1,0 +1,83 @@
+/* CSS styling cho Grid layout */
+
+.university-grid {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1.5fr 1fr 1.5fr;
+    gap: 10px;
+    text-align: center;
+    background-color: #f0f8f8; /* Màu nền từ Canva */
+    padding: 20px;
+    border-radius: 8px;
+    color: #34495e; /* Màu chữ từ Canva */
+  }
+  
+  .header {
+    font-weight: bold;
+    background-color: #ecf0f1;
+    padding: 12px;
+    border: 1px solid #dee2e6;
+  }
+  
+  .university-grid div {
+    padding: 12px;
+    border: 1px solid #dee2e6;
+  }
+  
+  .caption {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+    font-weight: /* CSS styling cho Grid layout */
+    university-grid {
+      display: grid;
+      grid-template-columns: 1fr 2fr 1.5fr 1fr 1.5fr;
+      gap: 10px;
+      text-align: center;
+      background-color: #f7f5f2; /* Màu nền từ Canva */
+      padding: 20px;
+      border-radius: 8px;
+      color: #2a3d45; /* Màu chữ từ Canva */
+    }
+    
+    .header {
+      font-weight: bold;
+      background-color: #9ad1d4; /* Màu xanh pastel nhạt từ Canva */
+      padding: 12px;
+      border: 1px solid #dee2e6;
+      color: #2a3d45;
+    }
+    
+    .university-grid div {
+      padding: 12px;
+      border: 1px solid #dee2e6;
+    }
+    
+    .caption {
+      font-size: 1.5em;
+      margin-bottom: 1em;
+      font-weight: bold;
+      color: #344e5c; /* Màu xanh đậm từ Canva */
+      text-align: center;
+    }
+    
+    .website-link a {
+      color: #f76c6c; /* Màu đỏ nhạt từ Canva */
+      text-decoration: none;
+    }
+    
+    .website-link a:hover {
+      text-decoration: underline;
+    }
+    bold;
+    color: #34495e;
+    text-align: center;
+  }
+  
+  .website-link a {
+    color: #1abc9c; /* Màu liên kết từ Canva */
+    text-decoration: none;
+  }
+  
+  .website-link a:hover {
+    text-decoration: underline;
+  }
+  
